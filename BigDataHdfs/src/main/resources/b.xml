@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EDITS>
+    <EDITS_VERSION>-63</EDITS_VERSION>
+    <RECORD>
+        <OPCODE>OP_START_LOG_SEGMENT</OPCODE>
+        <DATA>
+            <TXID>7170</TXID>
+        </DATA>
+    </RECORD>
+    <RECORD>
+        <OPCODE>OP_ADD</OPCODE>
+        <DATA>
+            <TXID>7171</TXID>
+            <LENGTH>0</LENGTH>
+            <INODEID>17787</INODEID>
+            <PATH>/user/centos/a.txt</PATH>
+            <REPLICATION>2</REPLICATION>
+            <MTIME>1489118864779</MTIME>
+            <ATIME>1489118864779</ATIME>
+            <BLOCKSIZE>5</BLOCKSIZE>
+            <CLIENT_NAME>DFSClient_NONMAPREDUCE_1295720148_1</CLIENT_NAME>
+            <CLIENT_MACHINE>192.168.231.1</CLIENT_MACHINE>
+            <OVERWRITE>true</OVERWRITE>
+            <PERMISSION_STATUS>
+                <USERNAME>Administrator</USERNAME>
+                <GROUPNAME>supergroup</GROUPNAME>
+                <MODE>420</MODE>
+            </PERMISSION_STATUS>
+            <RPC_CLIENTID>0c9a5af9-26a8-45d9-8754-cd0e7e47f65b</RPC_CLIENTID>
+            <RPC_CALLID>0</RPC_CALLID>
+        </DATA>
+    </RECORD>
+</EDITS>
